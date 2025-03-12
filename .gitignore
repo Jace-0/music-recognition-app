@@ -3,7 +3,9 @@ music_recognition_env/
 venv/
 env/
 .env/
-
+notes/
+songs/
+database/
 # Python
 __pycache__/
 *.py[cod]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Recognition APP</title>
+    <link rel="stylesheet" href="../static/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="layout">
+        <div class="add-song">
+            <a href="/add-song" class="button">Add a song</a>
+        </div>
+
+        <div class="main-content">
+            <div class="recognition-container">
+                <div class="prompt">
+                    <i class="fa-solid fa-microphone"></i>
+                    <h2>Tap to Recognize</h2>
+                </div>
+
+                <div id="recordButton" class="record-button">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Shazam_icon.svg" alt="Shazam Logo"/>
+                </div>
+
+                <div class="result-container">
+                    <!-- Results will appear here -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="../static/recorder.js"></script>
+</body>
+</html>
