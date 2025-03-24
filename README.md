@@ -13,7 +13,7 @@ This project implements an audio fingerprinting and recognition system similar t
 
 Check out the demo video of the project below:
 
-[Watch the demo video](https://drive.google.com/file/d/16PvMoYjZJ0HHA91cOk03xyn8eJv7zXEm/view?usp=drive_link)
+[Watch the demo video](https://drive.google.com/file/d/16PvMoYjZJ0HHA91cOk03xyn8eJv7zXEm/view?usp=sharing)
 
 ### Key Features
 
